@@ -1,0 +1,20 @@
+header {
+   color: rgb(5, 65, 137); 
+}
+body {
+    background-color: rgb(168, 186, 235);
+}
+.class1 {
+    background-color: rgba(40, 34, 34, 0.692);;
+    color: rgb(255, 254, 254);
+    font-family: "Bebas Neue"; 
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 0 auto; 
+    align-content: center;
+    background-position: center center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
